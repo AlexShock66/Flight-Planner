@@ -1,0 +1,9 @@
+8
+Dallas|Plano|98|47|Spirit
+Dallas|Austin|98|59|American
+Austin|Houston|95|39|United
+Dallas|Houston|101|51|Spirit
+Austin|Chicago|144|192|American
+Chicago|Plano|144|192|American
+Plano|Houston|144|192|American
+Austin|Miami|144|192|American
